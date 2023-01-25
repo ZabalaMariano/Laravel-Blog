@@ -10,6 +10,8 @@ Uso de Laravel como Full Stack Framework para la creación de un Blog
 - crear .env a partir de .env.example:
     - Ejecutar "php artisan key:generate"
     - Completar campos DB, MAIL y PUSHER con datos personales
+- composer install
+- npm install
 - php artisan schedule:work
 - php artisan queue:work
 - npm run dev

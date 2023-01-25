@@ -2,9 +2,9 @@
 Uso de Laravel como Full Stack Framework para la creación de un Blog
 
 ## Instalación
-PHP version 8.2.1
-Composer version 2.5.1
-MySQL version 8.0.31
+- PHP version 8.2.1
+- Composer version 2.5.1
+- MySQL version 8.0.31
 
 ## Ejecución
 - crear .env a partir de .env.example:
